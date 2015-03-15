@@ -1,4 +1,5 @@
 Line one, this is the beginning
 Line two, an addition
 Line three, added in master
+Line four, added in working
 End of story
